@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-Welcome to my profile! I'm Maximilian Grüttemeier, Founder and CEO of @Aperture-Development — but you might also know me as Rainbow Dash or simply as Aperture Development.
+Welcome to my profile! I'm Maximilian Grüttemeier, Founder and CEO of [@Aperture-Development](https://github.com/Aperture-Development) — but you might also know me as *Rainbow Dash* or simply as *Aperture Development*.
 
 I'm 26 years old, born in Herford, Germany, but raised in the lovely town of Bad Salzuflen. My passion for technology sparked early on, but things really took off in 2014 when I discovered a "small" game called Garry's Mod (spoiler: I spent way too many hours in it). Curiosity got the better of me, and I started tinkering with addons, which led me down the rabbit hole of development, databases, and web design. Before I knew it, I was knee-deep in SQL, PHP, and full-stack development—and I’ve been hooked ever since.
 
