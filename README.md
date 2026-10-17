@@ -4,9 +4,11 @@
 
 Welcome to my profile! I'm Maximilian Grüttemeier, Founder and CEO of [@Aperture-Development](https://github.com/Aperture-Development) — but you might also know me as *Rainbow Dash* or simply as *Aperture Development*.
 
-I'm 26 years old, born in Herford, Germany, but raised in the lovely town of Bad Salzuflen. My passion for technology sparked early on, but things really took off in 2014 when I discovered a "small" game called Garry's Mod (spoiler: I spent way too many hours in it). Curiosity got the better of me, and I started tinkering with addons, which led me down the rabbit hole of development, databases, and web design. Before I knew it, I was knee-deep in SQL, PHP, and full-stack development—and I’ve been hooked ever since.
+I'm 28 years old, born in Herford, Germany, but raised in the lovely town of Bad Salzuflen. My passion for technology sparked early on, but things really took off in 2014 when I discovered a "small" game called Garry's Mod (spoiler: I spent way too many hours in it). Curiosity got the better of me, and I started tinkering with addons, which led me down the rabbit hole of development, databases, and web design. Before I knew it, I was knee-deep in SQL, PHP, and full-stack development—and I’ve been hooked ever since.
 
-Fast forward to 2023, I officially turned my passion into a profession by starting an apprenticeship as a C#/.NET Developer at c-trace GmbH.
+Fast forward to 2023, I officially turned my passion into a profession by starting an apprenticeship as a C#/.NET Developer at c-trace GmbH, which I successfully completed in January 2026.
+
+In April 2026, I joined incluedo GmbH as a Software Developer and System Administrator. Just three months later, in July 2026, I took on the role of Head of IT, marking another exciting milestone in my professional journey.
 
 When I'm not writing code, you’ll probably find me experimenting with new software in my homelab, riding my bike to burn off all the snacks, or geeking out over physics (purely as a hobby—no quantum mechanics dissertations here, I promise).
 
